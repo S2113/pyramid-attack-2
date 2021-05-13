@@ -20,7 +20,7 @@ class box
       
 
 
-      if (this.body.speed<7.6)
+      if (this.body.speed<7.8)
       {
         push ();
         rotate(this.body.angle);
